@@ -107,13 +107,28 @@ The interactive dashboard includes:
 
 ---
 
-## 📁 Repository Structure
 
-```
-Customer-Experience-Analysis/
-│
-├── Dataset/
-│   └── Customer Support Data.xlsx
-│
-├── Excel Analysis/
-│  
+## 🚀 Business Impact
+
+This project demonstrates how Excel-based analytics can help organizations:
+
+- Improve customer satisfaction
+- Monitor customer support performance
+- Reduce response and resolution times
+- Identify recurring customer issues
+- Support data-driven business decisions
+- Enhance customer retention strategies
+
+---
+
+## 👩‍💻 Author
+
+**Ayesha Siddikha Shaik**
+
+B.Tech – Artificial Intelligence & Data Science
+
+Passionate about **Data Analytics, Business Intelligence, Machine Learning, and Data Visualization.**
+
+---
+
+## ⭐ If you found this project useful, consider giving this repository a star!
